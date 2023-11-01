@@ -1,1 +1,2 @@
-Course ->> CourseStartCourse ->> CourseEnd
+Course ->> CourseStart
+Course ->> CourseEnd
