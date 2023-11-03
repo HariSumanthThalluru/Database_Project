@@ -1,2 +1,4 @@
-Course ->> CourseStart
-Course ->> CourseEnd
+Course ->> Professor
+Course ->> classRoom
+StudentID ->> Course
+StudentID ->> Professor

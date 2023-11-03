@@ -1,0 +1,14 @@
+CREATE TABLE StudentID_table (
+  StudentID VARCHAR(255) PRIMARY KEY,
+  FirstName VARCHAR(255),
+  LastName VARCHAR(255)
+);
+CREATE TABLE StudentID,Course_table (
+  ProfessorEmail VARCHAR(255),
+  CourseEnd VARCHAR(255),
+  StudentID VARCHAR(255),
+  Professor VARCHAR(255),
+  Course VARCHAR(255),
+  CourseStart VARCHAR(255),
+  classRoom VARCHAR(255)
+);
